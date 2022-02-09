@@ -11,5 +11,5 @@ else {
     echo 'Tu n\'as pas lu le livre';
 }
 
-echo "$bookName \n $readBook \n $publicationYearsBook \n $priceBook"
-;
+echo "$bookName \n $readBook \n $publicationYearsBook \n $priceBook";
+?>
